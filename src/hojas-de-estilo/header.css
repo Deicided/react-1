@@ -1,0 +1,25 @@
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f6f7;
+    padding: 1em;
+    
+    }
+
+    .header2 {
+        display: flex;
+        justify-content: space-between;
+        background-color: #f5f6f7;
+        padding: 1em;
+
+
+    }
+    
+    .menu1 {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+    }
+
+    
